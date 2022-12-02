@@ -1,10 +1,10 @@
-Mastodon iOS App Features
+# Mastodon iOS App Features
 
 |                                  | Mastodon | Toot! | Metatext | Mastoot | Mammoth | Tusker | Ivory |
 |----------------------------------|----------|-------|----------|---------|---------|--------|-------|
-| Trending Posts                   | ✅       | ❌    | ❌       | ✅      | ❌     | ❌     |       |
+| Trending Posts                   | ✅       | ❌    | ❌       | ✅      | ✅     | ❌     |       |
 | Trending Hashtags                | ✅       | ❌    | ✅       | ✅      | ✅     | ✅     |       |
-| Trending News                    | ✅       | ❌    | ❌       | ❌      | ❌     | ❌     |       |
+| Trending News                    | ✅       | ❌    | ❌       | ❌      | ✅     | ❌     |       |
 | Recommended Users                | ✅       | ❌    | ❌       | ❌      | ❌     | ❌     |       |
 | Notification filters             | ⚠️       |  ✅    | ❌       | ✅      | ⚠️     | ⚠️     |       |
 | Translate                        | ❌       | ❌    | ❌       | ❌      | ✅     | ❌     |       |
@@ -16,7 +16,7 @@ Mastodon iOS App Features
 | Hide replies in user timeline    | ✅       | ❌    | ✅       | ✅      | ❌     | ✅     |       |
 | Show only media in user timeline | ✅       | ❌    | ✅       | ✅      | ✅     | ✅     |       |
 | Toggle user notifications        | ❌       | ❌    | ✅       | ❌      | ✅     | ❌     |       |
-| Follow hashtags                  | ❌       | ✅    | ❌       | ❌      | ✅     | ✅     |       |
+| Follow hashtags                  | ❌       | ✅    | ❌       | ✅      | ✅     | ✅     |       |
 | Add user to list                 | ❌       | ✅    | ✅       | ❌      | ✅     | ✅     |       |
 | Browse list timeline             | ❌       | ✅    | ✅       | ❌      | ✅     | ✅     |       |
 | View list members                | ❌       | ✅    | ❌       | ❌      | ✅     | ✅     |       |
